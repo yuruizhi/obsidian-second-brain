@@ -11,10 +11,14 @@
             "id": "25f04b4aa5a8c70d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MOC/系统优化/思维导图集成指南.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "思维导图集成指南"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_模板/基本笔记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "基本笔记模板 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_模板/基本笔记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "基本笔记模板 的出链列表"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_模板/基本笔记模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "基本笔记模板 的大纲"
             }
           },
           {
@@ -175,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,11 +203,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fd6c9377a75ca2f1",
+  "active": "25f04b4aa5a8c70d",
   "lastOpenFiles": [
+    "MOC/系统优化/个人知识仪表盘.md",
     "_模板/基本笔记模板.md",
-    "_模板/会议记录模板.md",
     "_模板/概念笔记模板.md",
+    "_模板/会议记录模板.md",
     "MOC/obsidian/链接使用指南.md",
     "MOC/obsidian/Obsidian设置建议.md",
     "README.md",
@@ -225,7 +233,6 @@
     "MOC/知识图谱指南.md",
     "MOC/渐进式总结.md",
     "MOC/标签系统.md",
-    "MOC/标签系统.md.md",
     "3-资源/思维模型",
     "3-资源/文章摘要",
     "3-资源/课程笔记",
