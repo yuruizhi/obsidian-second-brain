@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "MOC/工作流程图.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -203,7 +203,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "ca5f5c0745f93c5a",
+  "active": "d7594a4c913239cc",
   "lastOpenFiles": [
     "MOC/obsidian/Obsidian设置建议.md",
     "MOC/obsidian/推荐插件.md",
