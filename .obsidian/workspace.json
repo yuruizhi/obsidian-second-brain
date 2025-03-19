@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/obsidian/Obsidian设置建议.md",
-                "mode": "preview",
+                "file": "MOC/工作流程图.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian设置建议"
+              "title": "工作流程图"
             }
           }
         ]
@@ -203,8 +203,9 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "d7594a4c913239cc",
+  "active": "ca5f5c0745f93c5a",
   "lastOpenFiles": [
+    "MOC/obsidian/Obsidian设置建议.md",
     "MOC/obsidian/推荐插件.md",
     "MOC/项目计划与实施.md",
     "MOC/Obsidian 第二大脑实施计划（old）.md",
@@ -215,7 +216,6 @@
     "MOC/obsidian/知识图谱指南.md",
     "MOC/obsidian/渐进式总结.md",
     "MOC/工作流程图.md",
-    "MOC/obsidian/Obsidian设置建议.md",
     "MOC/obsidian/嵌入内容指南.md",
     "MOC/资源中心.md"
   ]
