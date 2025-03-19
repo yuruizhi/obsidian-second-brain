@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "e9158b36c7945bdf",
+    "id": "f816c51b97e34bd5",
     "type": "split",
     "children": [
       {
-        "id": "bcf5924b7d301eb6",
+        "id": "b50f76c6da241d8f",
         "type": "tabs",
         "children": [
           {
-            "id": "d7594a4c913239cc",
+            "id": "25f04b4aa5a8c70d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOC/Dataview查询示例.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dataview查询示例"
+              "title": "新标签页"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4e1d1cff5e1bca78",
+    "id": "10028b82abb41cc7",
     "type": "split",
     "children": [
       {
-        "id": "95622101a9e987c2",
+        "id": "10a80f3cff0a765b",
         "type": "tabs",
         "children": [
           {
-            "id": "912e1c405d095708",
+            "id": "b534069ba8dfa3ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "5585307e4438dcb9",
+            "id": "5b6015b48178d43e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "4d0256e77135e9db",
+            "id": "a9b86586ddbb291b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "663ba0f6f1c808cc",
+    "id": "b7eeadeed9b5efc6",
     "type": "split",
     "children": [
       {
-        "id": "64bdf0ab8f68ff99",
+        "id": "20fdd27bb7837947",
         "type": "tabs",
         "children": [
           {
-            "id": "fa89381f7214c296",
+            "id": "8ae9abe435a15cd0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC/工作流程图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "工作流程图 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "7061c0b539ef70d0",
+            "id": "e6ad3b33a09676fb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC/工作流程图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "工作流程图 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "fc9897871649059f",
+            "id": "0c03c51cef6e627f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,32 +131,31 @@
             }
           },
           {
-            "id": "e8a3a4eeeb65e23c",
+            "id": "ca11ac02726052b5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC/工作流程图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工作流程图 的大纲"
+              "title": "大纲"
             }
           },
           {
-            "id": "ca5f5c0745f93c5a",
+            "id": "1ba74b6cb39249b7",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "calendar",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "57cc4f77953994a7",
+            "id": "fd6c9377a75ca2f1",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -172,21 +165,21 @@
             }
           },
           {
-            "id": "45036cbde070f1a2",
+            "id": "f75a500200a3041d",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "git-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,29 +189,50 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:创建新看板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-spaced-repetition:复习卡片": false
+      "obsidian-spaced-repetition:复习卡片": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d7594a4c913239cc",
+  "active": "fd6c9377a75ca2f1",
   "lastOpenFiles": [
-    "MOC/主页.md",
+    "_模板/基本笔记模板.md",
+    "_模板/会议记录模板.md",
+    "_模板/概念笔记模板.md",
+    "MOC/obsidian/链接使用指南.md",
+    "MOC/obsidian/Obsidian设置建议.md",
+    "README.md",
+    "github",
+    "MOC/obsidian/渐进式总结.md",
+    "MOC/Obsidian 第二大脑实施计划（old）.md",
+    "MOC/xxx.md",
+    "0-收集箱/收集箱清理清单.md",
+    "MOC/obsidian/主流插件优化模板.md",
+    "MOC/Dataview查询示例.md",
     "MOC/项目一览.md",
     "MOC/项目计划与实施.md",
-    "MOC/使用指南.md",
-    "MOC/领域概览.md",
     "MOC/工作流程图.md",
-    "MOC/obsidian/Obsidian设置建议.md",
-    "MOC/obsidian/推荐插件.md",
-    "MOC/Obsidian 第二大脑实施计划（old）.md",
-    "MOC/Dataview查询示例.md",
     "MOC/标签一览.md",
+    "0-收集箱/README.md",
+    "MOC/obsidian/工作流程图.md",
+    "MOC/obsidian/推荐插件.md",
     "MOC/obsidian/知识图谱指南.md",
-    "MOC/obsidian/渐进式总结.md",
+    "_模板/周报模版.md",
     "MOC/obsidian/嵌入内容指南.md",
-    "MOC/资源中心.md"
+    "MOC/obsidian",
+    "MOC/知识图谱指南.md",
+    "MOC/渐进式总结.md",
+    "MOC/标签系统.md",
+    "MOC/标签系统.md.md",
+    "3-资源/思维模型",
+    "3-资源/文章摘要",
+    "3-资源/课程笔记",
+    "3-资源/书籍笔记",
+    "2-领域/家庭",
+    "2-领域/个人成长",
+    "2-领域/人际关系",
+    "2-领域/职业"
   ]
 }
