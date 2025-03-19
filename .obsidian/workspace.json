@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/项目计划与实施.md",
+                "file": "MOC/Dataview查询示例.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "项目计划与实施"
+              "title": "Dataview查询示例"
             }
           }
         ]
@@ -205,12 +205,14 @@
   },
   "active": "d7594a4c913239cc",
   "lastOpenFiles": [
+    "MOC/主页.md",
+    "MOC/项目一览.md",
+    "MOC/项目计划与实施.md",
     "MOC/使用指南.md",
     "MOC/领域概览.md",
     "MOC/工作流程图.md",
     "MOC/obsidian/Obsidian设置建议.md",
     "MOC/obsidian/推荐插件.md",
-    "MOC/项目计划与实施.md",
     "MOC/Obsidian 第二大脑实施计划（old）.md",
     "MOC/Dataview查询示例.md",
     "MOC/标签一览.md",
