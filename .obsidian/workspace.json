@@ -160,6 +160,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "57cc4f77953994a7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
           }
         ],
         "currentTab": 4
@@ -176,10 +186,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "912e1c405d095708",
+  "active": "ca5f5c0745f93c5a",
   "lastOpenFiles": [
     "MOC/obsidian/渐进式总结.md",
     "MOC/obsidian/知识图谱指南.md",

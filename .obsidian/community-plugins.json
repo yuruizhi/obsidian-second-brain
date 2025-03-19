@@ -1,5 +1,13 @@
 [
   "dataview",
   "obsidian-git",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "quickadd",
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
+  "obsidian-spaced-repetition",
+  "periodic-notes",
+  "nldates-obsidian",
+  "obsidian-minimal-settings"
 ]
